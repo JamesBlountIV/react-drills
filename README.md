@@ -88,7 +88,6 @@ import "./App.css";
 class App extends Component {
   constructor() {
     super();
-
     this.state = {
       foods: ["spaghetti", "ice cream", "sushi", "bologna", "cheese"]
     };
